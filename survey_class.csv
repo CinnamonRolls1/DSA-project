@@ -1,0 +1,61 @@
+Roll no,Knowledge of programming,Knowledge at end of course,Contribution of course ,Instructors efficiency,Presentation skill,TA skill,Highschool IT,Taught self new language,Taken an online course,Participation in hackathons,Syllabus rating,OS,Front/back end,Identifier preference,Preferred debugger,OOP knowledge,Preferred OOP language
+17IT146,4,3,3,2,2,3,No,Yes,Yes,Yes,9,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,8,JAVA
+17IT121,4,4,2,3,3,2,Yes,Yes,Yes,Yes,9,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,7,JAVA
+17IT138,2,3,2,1,1,1,No,Yes,No,No,3,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,4,JAVA
+171IT122,3,3,2,2,2,2,No,Yes,No,No,3,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,Python
+17IT132,3,4,4,3,4,3,Yes,Yes,Yes,No,7,Windows,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,7,Python
+17IT201,2,2,2,2,2,3,No,No,No,No,8,Windows,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,6,Python
+17IT230,2,4,5,2,2,1,No,Yes,No,Yes,9,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,6,JAVA
+17IT150,5,5,5,5,5,5,No,Yes,Yes,No,8,Linux,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,5,JAVA
+17IT140,2,2,1,2,2,1,Yes,No,No,No,2,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,5,JAVA
+17IT110,1,1,1,1,1,1,No,No,No,No,1,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,1,Python
+171IT117,2,3,2,1,2,2,No,Yes,Yes,No,6,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,5,Python
+17IT124,4,3,4,3,3,2,Yes,Yes,Yes,Yes,7,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,9,JAVA
+17IT209,5,4,3,1,2,1,No,No,No,No,6,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,4,Python
+17ITXXX,2,3,3,2,2,2,Yes,Yes,Yes,Yes,5,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,6,JAVA
+171IT108,4,5,4,3,3,3,Yes,Yes,Yes,No,8,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,8,Python
+17IT115,3,3,4,1,2,1,Yes,Yes,Yes,No,7,Linux,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,7,Python
+17IT248,5,5,5,5,5,5,No,No,Yes,No,9,Windows,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,10,JAVA
+17IT223,3,3,1,1,3,1,Yes,Yes,Yes,Yes,6,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,4,JAVA
+17IT228,1,2,2,2,2,2,No,Yes,No,No,3,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,7,Python
+17IT208,2,3,3,3,3,2,No,No,Yes,No,6,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,Python
+17IT131,3,4,4,3,3,3,No,Yes,No,No,8,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,6,Python
+17IT142,2,3,2,2,2,1,Yes,Yes,No,Yes,7,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,Python
+17IT19,2,3,2,2,2,1,Yes,No,No,No,4,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,Python
+171IT202,5,4,4,3,3,3,Yes,Yes,Yes,No,8,Linux,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,8,JAVA
+17IT113,3,4,4,3,4,3,Yes,Yes,Yes,No,8,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,8,Python
+17it149,2,2,1,1,1,1,Yes,Yes,Yes,No,5,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,8,Python
+17IT147 ,3,3,3,2,2,1,No,Yes,Yes,No,8,Linux,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,6,Python
+17IT249,2,2,2,2,2,2,No,Yes,No,No,8,Linux,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,8,Python
+171IT250,2,2,2,2,2,1,No,No,Yes,No,4,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,4,Python
+17IT145,2,3,4,2,3,3,No,No,No,No,10,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,6,JAVA
+17IT136,3,3,3,3,3,3,Yes,Yes,Yes,No,7,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,7,Python
+17IT244,3,3,3,3,3,3,Yes,Yes,Yes,Yes,6,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,8,Python
+17IT155,2,2,2,3,2,3,No,Yes,No,No,3,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,3,Python
+17IT139,2,2,1,1,2,1,No,Yes,Yes,Yes,4,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,7,Python
+17IT126,1,1,1,1,1,1,No,Yes,No,No,6,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,3,JAVA
+17IT112,2,2,1,1,2,1,No,No,No,No,4,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,3,Python
+17it133,5,5,5,4,4,3,No,Yes,Yes,Yes,8,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,8,Python
+17IT219,3,2,3,3,2,1,Yes,Yes,Yes,Yes,4,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,JAVA
+17IT246,3,3,4,3,4,4,No,Yes,Yes,Yes,4,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,Python
+17IT108,4,4,3,3,3,3,Yes,Yes,Yes,Yes,7,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,7,Python
+17IT220,2,4,4,2,3,3,Yes,No,Yes,No,8,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,JAVA
+17IT222,1,3,3,4,4,3,No,Yes,No,No,8,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,6,Python
+17IT130,1,2,2,2,2,1,No,Yes,Yes,No,5,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,6,Python
+17IT227,3,4,3,3,3,2,Yes,Yes,No,No,6,Windows,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,7,JAVA
+17IT247,2,3,3,2,2,1,Yes,No,No,No,5,Windows,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,4,JAVA
+17IT117,4,5,5,4,4,2,Yes,Yes,No,Yes,7,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,Python
+17IT235,3,4,4,2,4,2,Yes,No,Yes,Yes,5,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,8,Python
+171IT238,3,4,3,2,2,1,Yes,Yes,No,Yes,7,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,4,Python
+17IT221,3,4,4,3,3,2,Yes,Yes,Yes,Yes,8,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,6,JAVA
+17IT211,3,4,3,2,3,2,Yes,Yes,Yes,Yes,8,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,7,Python
+17IT218,2,2,2,3,3,1,No,Yes,No,No,7,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,Python
+17IT101,3,2,2,3,2,1,Yes,Yes,Yes,Yes,3,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,8,Python
+17IT253,3,3,2,3,3,2,Yes,Yes,Yes,Yes,7,Windows,Front end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,8,JAVA
+17IT105,3,4,4,4,4,3,No,No,Yes,No,8,Linux,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,7,JAVA
+17IT252,4,4,4,4,4,4,Yes,Yes,No,Yes,8,Windows,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Interpreter,7,Python
+4,1,1,1,1,1,1,No,Yes,Yes,No,5,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Compiler,6,JAVA
+17IT208,2,3,3,3,3,1,No,No,Yes,No,4,Linux,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,Python
+17IT242 ,4,4,4,3,4,3,No,Yes,No,No,5,Windows,Front end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,JAVA
+171IT204,2,2,2,1,1,3,Yes,No,Yes,No,1,Windows,Back end programming,"Strongly typed identifiers eg: such as in Java, C, C++",Compiler,8,Python
+17IT247,2,2,2,2,2,2,Yes,No,No,No,10,Windows,Back end programming,"Loosely typed reference variables eg:  such as in Python, Perl, PHP",Interpreter,5,Python
